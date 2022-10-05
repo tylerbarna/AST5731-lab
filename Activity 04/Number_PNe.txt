@@ -1,4 +1,4 @@
-# galaxy  N_PN
+galaxy  N_PN
  FCC083    63
  FCC119    14
  FCC143    13

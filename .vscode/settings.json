@@ -1,3 +1,4 @@
 {
-    "python.envFile": "${workspaceFolder}/.env"
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.defaultInterpreterPath": "~/anaconda3/envs/ast5731/bin/python"
 }
